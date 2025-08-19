@@ -352,8 +352,8 @@ def add_text_file_and_update_index(file_path):
 
 
 # For Gradio, use only the filename if it is in the same directory
-agent_avatar = "BDOagent2.png"
-user_avatar = "user_avatar2.png"
+agent_avatar = "user_avatar2.png"
+user_avatar = "BDOagent2.png"
 banner = "banner.png"
 
 # Optional: warning if any image is missing
