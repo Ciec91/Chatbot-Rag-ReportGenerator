@@ -1,5 +1,4 @@
-![banner](https://github.com/user-attachments/assets/a9aca2db-a195-4182-a690-0cc7de0f7480)
-
+<img src="https://github.com/user-attachments/assets/a9aca2db-a195-4182-a690-0cc7de0f7480" alt="banner" width="1000">
 
 # BDO CyberAuditBot
 
@@ -13,7 +12,7 @@ BDO CyberAuditBot is an AI-powered assistant for cybersecurity compliance audits
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e49e8472-b64d-4bf7-8297-3098752efa0a](https://github.com/user-attachments/assets/e02c46a2-9685-4ec5-846f-bdef9de6da92" alt="Screenshot2" width="800">
+  <img src="https://github.com/user-attachments/assets/c74f69b1-dd46-445b-97e2-21ba7664d084" alt="Screenshot2" width="800">
 </p>
 
 ## Features
