@@ -1,3 +1,6 @@
+![banner](https://github.com/user-attachments/assets/a9aca2db-a195-4182-a690-0cc7de0f7480)
+
+
 # BDO CyberAuditBot
 
 BDO CyberAuditBot is an AI-powered assistant for cybersecurity compliance audits, designed for BDO Singapore. It leverages LLM and RAG to provide precise, document-based answers and generate technical pentesting reports.
