@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/a9aca2db-a195-4182-a690-0cc7de0f7480" alt="banner" width="700">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9aca2db-a195-4182-a690-0cc7de0f7480" alt="banner" width="700">
+</p>
 
 # BDO CyberAuditBot
 
