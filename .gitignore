@@ -1,0 +1,44 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Chroma vectorstore index and database files
+chroma_index_rag/
+chroma_index/
+*.sqlite3
+
+# Gradio cache
+gradio_cached_examples/
+gradio_cache/
+
+# Logs
+*.log
+
+# Reports and generated files
+*.docx
+CyberAudit_Report_*.docx
+
+# Data (optional, if you want to ignore
