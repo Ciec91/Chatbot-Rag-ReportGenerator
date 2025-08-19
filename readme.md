@@ -8,8 +8,16 @@ BDO CyberAuditBot is an AI-powered assistant for cybersecurity compliance audits
 ---
 
 ## UI
-![Screenshot1](https://github.com/user-attachments/assets/f1be8b89-b0e9-4b49-9db8-0b8e5df47917)
-![Screenshot2](https://github.com/user-attachments/assets/e49e8472-b64d-4bf7-8297-3098752efa0a)
+<h3 align="center">📸 Screenshots</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1be8b89-b0e9-4b49-9db8-0b8e5df47917" alt="Screenshot1" width="800">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e49e8472-b64d-4bf7-8297-3098752efa0a" alt="Screenshot2" width="800">
+</p>
+
 
 
 ## Features
