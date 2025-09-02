@@ -29,7 +29,7 @@ if not openai_api_key:
 client = OpenAI(api_key=openai_api_key)
 MODEL = 'gpt-4o'
 
-pdf_dir = '/Users/carloseganacastanon/Desktop/Proyecto RAG/CyberAudit_Rag/cybersecurity_pdf_data'
+pdf_dir = '../CyberAudit_Rag/cybersecurity_pdf_data'
 persist_path = os.path.expanduser("~/chroma_index_rag")
 
 os.makedirs(persist_path, exist_ok=True)
